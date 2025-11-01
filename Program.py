@@ -1,7 +1,13 @@
 student_list = [
     {"first_name": "Behnam", "last_name": "Moayedi", "id": 14021251328},
+<<<<<<< HEAD
     {"first_name": "Farhan", "last_name": "Bagheri", "id": 1400012268037},
     # {"first_name": "Ali", "last_name": "Akbari", "id": 14023551328}     Mesafl bood ino velesh khodeto benvis
+=======
+    # {"first_name": "Ali", "last_name": "Akbari", "id": 14023551328}     Mesal bood ino velesh khodeto benvis
+    {"first_name": "Kiarash", "last_name": "Esmailzadeh", "id": 1402012268176},
+    {"first_name": "Yeganeh", "last_name": "Teymouri", "id": 1402012268092}
+>>>>>>> c5466846f03c55e5f3bfa1cab5694b4ad4f0d001
 ]
 
 def sort(student_list):
