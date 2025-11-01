@@ -1,6 +1,8 @@
 student_list = [
     {"first_name": "Behnam", "last_name": "Moayedi", "id": 14021251328},
     # {"first_name": "Ali", "last_name": "Akbari", "id": 14023551328}     Mesal bood ino velesh khodeto benvis
+    {"first_name": "Kiarash", "last_name": "Esmailzadeh", "id": 1402012268176},
+    {"first_name": "Yeganeh", "last_name": "Teymouri", "id": 1402012268092}
 ]
 
 def sort(student_list):
